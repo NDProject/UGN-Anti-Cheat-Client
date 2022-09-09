@@ -1,0 +1,16 @@
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client v1.3.8.3\bin\Debug\UGN Client.exe.config
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client v1.3.8.3\bin\Debug\UGN Client.exe
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client v1.3.8.3\bin\Debug\UGN Client.pdb
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client v1.3.8.3\bin\Debug\af-ZA\UGN Client.resources.dll
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client v1.3.8.3\bin\Debug\UGN Client.exe.CodeAnalysisLog.xml
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client v1.3.8.3\bin\Debug\UGN Client.exe.lastcodeanalysissucceeded
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client v1.3.8.3\obj\Debug\UGN Client.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client v1.3.8.3\obj\Debug\UGN_Client.UpdateCheck.resources
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client v1.3.8.3\obj\Debug\UGN_Client.v.resources
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client v1.3.8.3\obj\Debug\UGN_Client.Form1.resources
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client v1.3.8.3\obj\Debug\UGN_Client.Properties.Resources.resources
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client v1.3.8.3\obj\Debug\UGN_Client.Form1.af-ZA.resources
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client v1.3.8.3\obj\Debug\UGN Client.csproj.GenerateResource.Cache
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client v1.3.8.3\obj\Debug\af-ZA\UGN Client.resources.dll
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client v1.3.8.3\obj\Debug\UGN Client.exe
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client v1.3.8.3\obj\Debug\UGN Client.pdb

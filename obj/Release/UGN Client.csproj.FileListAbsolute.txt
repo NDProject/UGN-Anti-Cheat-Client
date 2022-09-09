@@ -1,0 +1,41 @@
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client v1.3.8.3\bin\Release\UGN Client.exe.config
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client v1.3.8.3\bin\Release\UGN Client.exe
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client v1.3.8.3\bin\Release\UGN Client.pdb
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client v1.3.8.3\bin\Release\af-ZA\UGN Client.resources.dll
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client v1.3.8.3\obj\Release\UGN_Client.UpdateCheck.resources
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client v1.3.8.3\obj\Release\UGN_Client.v.resources
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client v1.3.8.3\obj\Release\UGN_Client.Form1.resources
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client v1.3.8.3\obj\Release\UGN_Client.Properties.Resources.resources
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client v1.3.8.3\obj\Release\UGN_Client.Form1.af-ZA.resources
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client v1.3.8.3\obj\Release\UGN Client.csproj.GenerateResource.Cache
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client v1.3.8.3\obj\Release\af-ZA\UGN Client.resources.dll
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client v1.3.8.3\obj\Release\UGN Client.exe
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client v1.3.8.3\obj\Release\UGN Client.pdb
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client\bin\Release\UGN Client.exe.config
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client\bin\Release\UGN Client.exe
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client\bin\Release\UGN Client.pdb
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client\bin\Release\af-ZA\UGN Client.resources.dll
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client\obj\Release\UGN Client.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client\obj\Release\UGN_Client.UpdateCheck.resources
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client\obj\Release\UGN_Client.v.resources
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client\obj\Release\UGN_Client.Form1.resources
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client\obj\Release\UGN_Client.Properties.Resources.resources
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client\obj\Release\UGN_Client.Form1.af-ZA.resources
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client\obj\Release\UGN Client.csproj.GenerateResource.Cache
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client\obj\Release\af-ZA\UGN Client.resources.dll
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client\obj\Release\UGN Client.exe
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client\obj\Release\UGN Client.pdb
+C:\Users\Omar\Documents\Visual Studio 2012\Projects\UGN Client\bin\Release\UGN Client.exe.config
+C:\Users\Omar\Documents\Visual Studio 2012\Projects\UGN Client\obj\Release\UGN Client.exe
+C:\Users\Omar\Documents\Visual Studio 2012\Projects\UGN Client\obj\Release\UGN Client.pdb
+C:\Users\Omar\Documents\Visual Studio 2012\Projects\UGN Client\bin\Release\UGN Client.exe
+C:\Users\Omar\Documents\Visual Studio 2012\Projects\UGN Client\bin\Release\UGN Client.pdb
+C:\Users\Omar\Documents\Visual Studio 2012\Projects\UGN Client\bin\Release\af-ZA\UGN Client.resources.dll
+C:\Users\Omar\Documents\Visual Studio 2012\Projects\UGN Client\obj\Release\UGN Client.csprojResolveAssemblyReference.cache
+C:\Users\Omar\Documents\Visual Studio 2012\Projects\UGN Client\obj\Release\UGN_Client.UpdateCheck.resources
+C:\Users\Omar\Documents\Visual Studio 2012\Projects\UGN Client\obj\Release\UGN_Client.v.resources
+C:\Users\Omar\Documents\Visual Studio 2012\Projects\UGN Client\obj\Release\UGN_Client.Form1.resources
+C:\Users\Omar\Documents\Visual Studio 2012\Projects\UGN Client\obj\Release\UGN_Client.Properties.Resources.resources
+C:\Users\Omar\Documents\Visual Studio 2012\Projects\UGN Client\obj\Release\UGN_Client.Form1.af-ZA.resources
+C:\Users\Omar\Documents\Visual Studio 2012\Projects\UGN Client\obj\Release\UGN Client.csproj.GenerateResource.Cache
+C:\Users\Omar\Documents\Visual Studio 2012\Projects\UGN Client\obj\Release\af-ZA\UGN Client.resources.dll

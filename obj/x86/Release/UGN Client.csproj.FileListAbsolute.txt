@@ -1,0 +1,23 @@
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client\bin\x86\Release\UGN Client.exe.config
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client\bin\x86\Release\UGN Client.exe
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client\bin\x86\Release\UGN Client.pdb
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client\bin\x86\Release\af-ZA\UGN Client.resources.dll
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client\bin\x86\Release\ugn_capture.dll
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client\bin\x86\Release\ugn_core.dll
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client\bin\x86\Release\ugn_data.dll
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client\bin\x86\Release\ugn_requests.dll
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client\bin\x86\Release\ugn_shield.dll
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client\bin\x86\Release\ugn_capture.pdb
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client\bin\x86\Release\ugn_core.pdb
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client\bin\x86\Release\ugn_data.pdb
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client\bin\x86\Release\ugn_requests.pdb
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client\bin\x86\Release\ugn_shield.pdb
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client\obj\x86\Release\UGN Client.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client\obj\x86\Release\UGN_Client.v.resources
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client\obj\x86\Release\UGN_Client.Form1.resources
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client\obj\x86\Release\UGN_Client.Properties.Resources.resources
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client\obj\x86\Release\UGN_Client.Form1.af-ZA.resources
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client\obj\x86\Release\UGN Client.csproj.GenerateResource.Cache
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client\obj\x86\Release\af-ZA\UGN Client.resources.dll
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client\obj\x86\Release\UGN Client.exe
+C:\Users\Emre\Desktop\UGN Client\latest\UGN Client\obj\x86\Release\UGN Client.pdb
